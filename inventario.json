@@ -1,0 +1,14 @@
+{
+    "EMS": {
+        "id": "EMS",
+        "nombre": "Arroz",
+        "cantidad": 23,
+        "precio": 60.0
+    },
+    "EDE": {
+        "id": "EDE",
+        "nombre": "azucar",
+        "cantidad": 25,
+        "precio": 2.0
+    }
+}
